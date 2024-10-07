@@ -8,4 +8,3 @@
 
 📫 Vous pouvez me contacter par email à gibrilzaoui9@gmail.com .
 
-![Gibril's GitHub stats](https://github-readme-stats.vercel.app/api?username=gibrilzaoui&show_icons=true&theme=radical)
